@@ -1,0 +1,5 @@
+{{#user}}
+Name: Gir Diptanshu
+Skills: HTML, CSS, JS, Node, Express, Mongo, React
+Email: goswamidiptanshu@gmail.com
+{{/user}}
